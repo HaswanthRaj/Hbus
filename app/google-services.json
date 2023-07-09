@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "572714066737",
+    "project_id": "hbus-4326f",
+    "storage_bucket": "hbus-4326f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572714066737:android:b9fdd2d49c27d478810610",
+        "android_client_info": {
+          "package_name": "com.example.hbus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572714066737-i5ba2gmtvu43u39fgnkstqpegsolsnim.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIiRgN88GuL7YQIYsQWeSDePHMa7doy7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "572714066737-i5ba2gmtvu43u39fgnkstqpegsolsnim.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
